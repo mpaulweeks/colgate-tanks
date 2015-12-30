@@ -1,0 +1,16 @@
+How to play:
+
+Move with arrow keys.
+Mouse1 is shoot.
+Mouse2 places a proximity mine, which becomes active after X number of frames (gives you enough time to run away).
+	Can/will be detonated via direct contact with any tanks, bullets, or explosions.
+P is pause.
+
+Bullets normally bounce off of walls once, exploding on contact with another wall.
+	F5 makes all bullets bounce indefinitely.
+	F6 returns it to one bounce.
+	
+For the coders:
+
+You can do everything you need just within the ai method.
+Unless you find a game-breaking issue, try not to edit anything outside of the ai method so that contributions can stay orderly.
